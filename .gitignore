@@ -1,0 +1,15 @@
+# Compiled Bicep output (build it, don't commit it)
+infra/**/*.json
+!infra/**/*.parameters.json
+!infra/**/bicepconfig.json
+
+# Local secrets and parameter overrides: never commit these
+*.local.json
+*.secrets.*
+.env
+
+# Editor and OS clutter
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
