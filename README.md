@@ -18,7 +18,7 @@ Everything on the Azure side is deployed from this repo. `main` is protected: ch
 
 | Phase | State |
 | --- | --- |
-| 0. Lab foundation | In progress |
+| 0. Lab foundation | In progress: repo done |
 | 1. Old server room | Not started |
 | 2. Identity and governance | Not started |
 | 3. Virtual networking | Not started |
